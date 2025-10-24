@@ -209,7 +209,7 @@ def insert(root, key):
     circulares)
 -   **Bancos de dados** → árvores B e B+
 -   **Redes sociais** → grafos para conexões
--   **Jogos e IA** → árvores de decisão e pilhas para backtracking\
+-   **Jogos e IA** → árvores de decisão e pilhas para backtracking
 -   **Compiladores** → pilhas e árvores sintáticas
 
 ------------------------------------------------------------------------
