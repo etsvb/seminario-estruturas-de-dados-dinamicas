@@ -112,5 +112,6 @@ Charmander, Bulbasaur, etc).
 
 ##  Autor
 
-Desenvolvido por **\[Ericha T. S. Barbosa\]** 
-Licença: [MIT](https://opensource.org/licenses/MIT)
+Desenvolvido por **Ericha T. S. Barbosa** 
+
+Licença: MIT(https://opensource.org/licenses/MIT)
