@@ -217,7 +217,7 @@ def insert(root, key):
 ##  Contribuição
 
 Sinta-se à vontade para abrir **issues** e enviar **pull requests**
-com: - Implementações em outras linguagens (C, Java, etc.);\
+com: - Implementações em outras linguagens (C, Java, etc.);
 - Melhorias de desempenho;
 - Exemplos de aplicações reais.
 
