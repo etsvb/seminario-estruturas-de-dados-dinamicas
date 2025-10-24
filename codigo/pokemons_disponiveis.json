@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "Pikachu",
+        "tipo": "Elétrico"
+    },
+    {
+        "nome": "Charmander",
+        "tipo": "Fogo"
+    },
+    {
+        "nome": "Bulbasaur",
+        "tipo": "Planta/Veneno"
+    },
+    {
+        "nome": "Squirtle",
+        "tipo": "Água"
+    },
+    {
+        "nome": "Eevee",
+        "tipo": "Normal"
+    },
+    {
+        "nome": "Jigglypuff",
+        "tipo": "Fada"
+    },
+    {
+        "nome": "Gengar",
+        "tipo": "Fantasma/Veneno"
+    },
+    {
+        "nome": "Kennedy",
+        "tipo": "El"
+    }
+]
